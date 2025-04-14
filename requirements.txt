@@ -1,12 +1,12 @@
-requests==2.28.1
-streamlit==1.17.0
-tensorflow==2.10.1  # Last version with official Py3.9 support
-numpy==1.21.6      # Compatible with TF 2.10
-folium==0.14.0
-streamlit-folium==0.10.1
-transformers==4.28.1  # Last version with full Py3.9 support
-Pillow==9.5.0
-torch==1.13.1+cu117  # Specify CUDA version if needed
+requests
+streamlit
+tensorflow  # Last version with official Py3.9 support
+numpy      # Compatible with TF 2.10
+folium
+streamlit-folium
+transformers # Last version with full Py3.9 support
+Pillow
+torch  # Specify CUDA version if needed
 google-generativeai==0.1.0  # Early stable version
-googletrans==3.1.0a0  # More reliable in Py3.9
-protobuf==3.20.3     # Required version for generativeai
+googletrans==4.0.0-rc1
+protobuf     # Required version for generativeai
