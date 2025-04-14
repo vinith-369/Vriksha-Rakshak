@@ -1,3 +1,4 @@
+python == 3.9.6
 requests
 streamlit
 tensorflow  
