@@ -1,12 +1,12 @@
 requests
 streamlit
-tensorflow  # Last version with official Py3.9 support
-numpy      # Compatible with TF 2.10
+tensorflow  
+numpy     
 folium
 streamlit-folium
-transformers # Last version with full Py3.9 support
+transformers 
 Pillow
-torch  # Specify CUDA version if needed
-google-generativeai==0.1.0  # Early stable version
+torch 
+google-generativeai
 googletrans==4.0.0-rc1
-protobuf     # Required version for generativeai
+protobuf    
